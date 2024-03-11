@@ -1,0 +1,9 @@
+{
+  "csvPath": "C:\\Users\\Aleksandra\\PycharmProjects\\DermaAnalysis\\data/segmentation/pseudolabels_ratio=4_train.csv",
+  "testCsvPath": "C:\\Users\\Aleksandra\\PycharmProjects\\DermaAnalysis\\data/segmentation/test_segmentation.csv",
+  "imagesPath": "C:\\Users\\Aleksandra\\PycharmProjects\\DermaAnalysis\\data/images/" ,
+  "masksPath": "C:\\Users\\Aleksandra\\PycharmProjects\\DermaAnalysis\\data/segmentation/pseudolabels_resnet34_grid",
+  "testMasksPath": "C:\\Users\\Aleksandra\\PycharmProjects\\DermaAnalysis\\data/segmentation/test",
+  "savePath": "save",
+  "resumePath": ""
+}
