@@ -20,6 +20,9 @@ dataset. The evaluation of the proposed approach shows that Noisy Student traini
 segmentation performance of neural networks in a skin lesion segmentation task while using only
 small amounts of labeled data.
 
+## Full text
+https://www.mdpi.com/2072-6694/16/6/1120
+
 ## Datasets
 We conduct experiments on two public skin lesion datasets ISIC 2017 + 2018 and PH2.
 data can be downloaded from 
